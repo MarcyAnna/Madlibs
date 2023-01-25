@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    margin-top: 20px;
+}
+
+input {
+    margin:10px;
+}
+
+.story-div {
+    font-family: fantasy;
+}
